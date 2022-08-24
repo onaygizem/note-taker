@@ -36,7 +36,7 @@ app.route("/api/notes")
         let newNote = req.body;
 
         // This allows the test note to be the original note.
-        let highestId = 99;
+        let highestId = 20;
         // This loops through the array and finds the highest ID.
         for (let i = 0; i < database.length; i++) {
             let individualNote = database[i];
@@ -82,7 +82,7 @@ app.delete("/api/notes/:id", function (req, res) {
         if (err) {
             return console.log(err);
         } else {
-            console.log("Your note was deleted!");
+            console.log("Note is deleted!");
         }
     });
     res.json(database);

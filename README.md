@@ -31,3 +31,36 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
+
+## The application will be invoked by using the following command:
+
+```bash
+npm install
+```
+
+```bash
+node server.js
+```
+
+## Screenshot of the application
+![note taker](/note-taker/public/assets/images/screenshot.png?raw=true)
+
+## Recording of the application
+![note taker](/note-taker/public/assets/images/recording.gif?raw=true)
+
+```
+Link to recording: https://drive.google.com/file/d/1LUaVXB2tQg5G5pyJpqx-WsypQWMXlJm2/view?usp=sharing
+```
+
+
+## Github link to deployed application
+
+```
+https://github.com/onaygizem/note-taker
+```
+
+## Heroku link to deployed application
+
+```
+https://note-taker-onay.herokuapp.com/notes
+```
