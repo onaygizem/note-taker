@@ -43,10 +43,10 @@ node server.js
 ```
 
 ## Screenshot of the application
-![note taker](/note-taker/public/assets/images/screenshot.png?raw=true)
+![note taker](https://github.com/onaygizem/note-taker/blob/master/public/assets/images/screenshot.png?raw=true)
 
 ## Recording of the application
-![note taker](/note-taker/public/assets/images/recording.gif?raw=true)
+![note taker](https://github.com/onaygizem/note-taker/blob/master/public/assets/images/recording.gif?raw=true)
 
 ```
 Link to recording: https://drive.google.com/file/d/1LUaVXB2tQg5G5pyJpqx-WsypQWMXlJm2/view?usp=sharing
